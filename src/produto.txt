@@ -1,0 +1,16 @@
+produto
+    name
+    price
+
+provider
+    name
+    startMessage
+    tracking url
+
+clientes
+    numberId
+        stage
+        items
+        adrees
+        callNumber
+        name
